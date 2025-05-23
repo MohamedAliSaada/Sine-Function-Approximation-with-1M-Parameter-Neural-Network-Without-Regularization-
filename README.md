@@ -80,4 +80,4 @@ The result: the model predicts **flat zero** outside the training range.
 
 ## ✍️ Author
 
-Documented by \[Your Name].
+Documented by \[سعاده].
